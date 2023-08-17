@@ -136,7 +136,7 @@ Sempre que você entrar em um repositório, seja o seu ou o de qualquer outra pe
 
 * Você irá copiar esse link e levar ele lá pro nosso terminal
 
-* O comando para puxar o projeto para a sua máquina é o `git clone https://github.com/rafaballerini/GitTutorial.git`
+* O comando para puxar o projeto para a sua máquina é o https://github.com/carlossoaresn16/Tira_duvidas_Git_gutHub.git
 
 Não é necessário criar um repositório antes disso, como fizemos anteriormente com o `git init`. Dessa vez, basta abrir o terminal e clonar o projeto e tudo aparecerá!
 
